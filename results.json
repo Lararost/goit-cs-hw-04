@@ -1,0 +1,34 @@
+{
+  "threading": {
+    "seconds": 0.0009698750072857365,
+    "results": {
+      "python": [
+        "/Users/larisadarmorost/Desktop/goit-cs-hw-04/sample_texts/01_python.txt",
+        "/Users/larisadarmorost/Desktop/goit-cs-hw-04/sample_texts/02_docker.txt"
+      ],
+      "паралелізм": [
+        "/Users/larisadarmorost/Desktop/goit-cs-hw-04/sample_texts/01_python.txt",
+        "/Users/larisadarmorost/Desktop/goit-cs-hw-04/sample_texts/04_parallel.txt"
+      ],
+      "docker": [
+        "/Users/larisadarmorost/Desktop/goit-cs-hw-04/sample_texts/02_docker.txt"
+      ]
+    }
+  },
+  "multiprocessing": {
+    "seconds": 0.1495059580047382,
+    "results": {
+      "python": [
+        "/Users/larisadarmorost/Desktop/goit-cs-hw-04/sample_texts/01_python.txt",
+        "/Users/larisadarmorost/Desktop/goit-cs-hw-04/sample_texts/02_docker.txt"
+      ],
+      "паралелізм": [
+        "/Users/larisadarmorost/Desktop/goit-cs-hw-04/sample_texts/01_python.txt",
+        "/Users/larisadarmorost/Desktop/goit-cs-hw-04/sample_texts/04_parallel.txt"
+      ],
+      "docker": [
+        "/Users/larisadarmorost/Desktop/goit-cs-hw-04/sample_texts/02_docker.txt"
+      ]
+    }
+  }
+}
